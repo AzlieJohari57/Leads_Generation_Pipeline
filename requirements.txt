@@ -37,3 +37,5 @@ apify_client
 python-Levenshtein
 google-genai
 matplotlib
+numpy
+urllib3
