@@ -6,8 +6,6 @@ scrapy-playwright
 beautifulsoup4
 extruct
 aiohttp
-requests
-pandas
 google-generativeai
 langchain
 langchain-google-genai
@@ -21,14 +19,13 @@ ipywidgets
 thefuzz[speedup]
 playwright
 playwright-stealth
-nest_asyncio 
+nest_asyncio
 tqdm
-crawl4ai 
+crawl4ai
 openpyxl
 phonenumbers
 openai
 langchain_openai
-langchain
 langchain-scraperapi
 langchain_community
 serpapi
@@ -39,3 +36,8 @@ google-genai
 matplotlib
 numpy
 urllib3
+pyarrow
+fastparquet
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
