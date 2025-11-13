@@ -1,11 +1,11 @@
 ,UEN,Emails,Phones,Website,Facebook,LinkedIn,Instagram,TikTok,RecordOwl_Link,Error,operational_street,operational_unit,operational_postal_code,operational_address
-0,53431824W,,,https://www.tutorsville.sg/,,,,,https://recordowl.com/company/tutorsville-sg,,230 COMPASSVALE WALK,10-430,540230,230 COMPASSVALE WALK 10-430 Singapore 540230
-1,202344030R,,['+6591943237'],,,,,,https://recordowl.com/company/chem-affinity-learning-centre-pte-ltd,,87 BEACH ROAD CHYE SING BUILDING,04-03,189695,87 BEACH ROAD CHYE SING BUILDING 04-03 Singapore 189695
-2,T15LL1885G,,['+6568176157'],https://edureachsg.com,['https://www.facebook.com/edureachservices'],,,,https://recordowl.com/company/edureach-services-llp,,201E TAMPINES STREET 23,01-122,527201,201E TAMPINES STREET 23 01-122 Singapore 527201
-3,53200915X,,,,,,,,,Scraping error: Failed to load company page: net::ERR_SOCKET_NOT_CONNECTED at https://recordowl.com/company/think-arts,,,,
-4,201733719E,,['+6586860777'],https://jusinfants.com,,,['https://www.instagram.com/jusinfantsplayhouse/'],,https://recordowl.com/company/jus-infants-macpherson-pte-ltd,,47 KALLANG PUDDING ROAD THE CRESCENT @ KALLANG,01-01,349318,47 KALLANG PUDDING ROAD THE CRESCENT @ KALLANG 01-01 Singapore 349318
-5,53227394W,,['+6598524810'],,,,,,https://recordowl.com/company/maths-tablet,,555 ANG MO KIO AVENUE 10 CHENG SAN PLACE,01-1958,560555,555 ANG MO KIO AVENUE 10 CHENG SAN PLACE 01-1958 Singapore 560555
-6,202209857Z,,['+6598193093'],http://www.yorkearlyyears.com/,,,,,https://recordowl.com/company/york-education-pte-ltd,,54 CASHEW ROAD CASHEW PARK CONDOMINIUM,02-02,679637,54 CASHEW ROAD CASHEW PARK CONDOMINIUM 02-02 Singapore 679637
-7,201711911W,['principal-rochester@maplebear.sg'],['+6562521488'],https://maplebear.sg/contact-us,['https://www.facebook.com/maplebearsg'],,"['https://www.instagram.com/maplebear_rochester/', 'https://www.instagram.com/maplebearsingapore/']",,https://recordowl.com/company/maplebear-learning-garden-pte-ltd,,351 BRADDELL ROAD 351 ON BRADDELL,03-01,579713,351 BRADDELL ROAD 351 ON BRADDELL 03-01 Singapore 579713
-8,201540131W,['sg_4hands@outlook.com'],['+6594203111'],https://4handsda.com,['https://www.facebook.com/4handsda/'],,,,https://recordowl.com/company/4hands-dental-assisting-training-school-pte-ltd,,684A JURONG WEST STREET 64,17-103,641684,684A JURONG WEST STREET 64 17-103 Singapore 641684
-9,202337418G,['enquiries@outoftheboxacademy.com'],['+6580664284'],,"['https://www.facebook.com/outofboxacademy/', 'https://www.facebook.com/otbstudentcare']",,['https://www.instagram.com/otbstudentcare/'],,https://recordowl.com/company/out-of-the-box-academy-clementi-pte-ltd,,433 CLEMENTI AVENUE 3,01-258,120433,433 CLEMENTI AVENUE 3 01-258 Singapore 120433
+0,53431824W,,,,,,,,,Apify call failed: Monthly usage hard limit exceeded,,,,
+1,202344030R,,,,,,,,,Apify call failed: Monthly usage hard limit exceeded,,,,
+2,T15LL1885G,,,,,,,,,Apify call failed: Monthly usage hard limit exceeded,,,,
+3,53200915X,,,,,,,,,Apify call failed: Monthly usage hard limit exceeded,,,,
+4,201733719E,,,,,,,,,Apify call failed: Monthly usage hard limit exceeded,,,,
+5,53227394W,,,,,,,,,Apify call failed: Monthly usage hard limit exceeded,,,,
+6,202209857Z,,,,,,,,,Apify call failed: Monthly usage hard limit exceeded,,,,
+7,201711911W,,,,,,,,,Apify call failed: Monthly usage hard limit exceeded,,,,
+8,201540131W,,,,,,,,,Apify call failed: Monthly usage hard limit exceeded,,,,
+9,202337418G,,,,,,,,,Apify call failed: Monthly usage hard limit exceeded,,,,
