@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "lusha": {
+      "type": "http",
+      "url": "https://mcp.lusha.com"
+    },
+    "apify": {
+      "type": "http",
+      "url": "https://mcp.apify.com"
+    }
+  }
+}
